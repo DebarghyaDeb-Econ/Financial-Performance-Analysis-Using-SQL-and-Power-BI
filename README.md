@@ -33,10 +33,11 @@ The Pizza Sales Report dashboards provide a user-friendly interface and offer th
 - Top-Selling Pizzas: Identification of top-selling pizzas based on various metrics.
 - Least-Selling Pizzas: Identification of least-selling pizzas based on various metrics.
   
-![PizzaSalesDashboard](https://github.com/DebarghyaDeb-Econ/Pizza_Sales_Report_SQL_PowerBI/assets/172021501/57ab8447-0880-463a-acd7-e60ef8b82461)
+<img width="547" alt="1_Pizza_Sales_Home_Report_Dashboard" src="https://github.com/DebarghyaDeb-Econ/Pizza_Sales_Report_SQL_PowerBI/assets/172021501/4926166b-9240-42ae-8154-e4f800b449a8">
 
 
-![PizzaSalesDashboard2](https://github.com/DebarghyaDeb-Econ/Pizza_Sales_Report_SQL_PowerBI/assets/172021501/33a105c5-cfba-49e1-9255-4d77dba5011a)
+<img width="546" alt="2_Best_worst_Sellers_Report_Dashboard" src="https://github.com/DebarghyaDeb-Econ/Pizza_Sales_Report_SQL_PowerBI/assets/172021501/6726b0ef-0f9d-422e-a1ae-dbd6e4edc233">
+
 
 
 # Insights and Recommendations
