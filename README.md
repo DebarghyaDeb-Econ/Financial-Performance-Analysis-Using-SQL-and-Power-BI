@@ -1,1 +1,2 @@
-# Pizza_Sales_Report_SQL_PowerBI
+#PIZZA_SALES_REPORT_SQL_POWERBI
+The Pizza Sales Project analyses and visualises sales data from a fictitious pizza restaurant chain. This project extracts and transforms data using SQL, and also visualises data using Power BI. The project's purpose is to deliver insights and actionable information to help the pizza restaurant chain optimise its operations, increase sales, and improve customer happiness.
